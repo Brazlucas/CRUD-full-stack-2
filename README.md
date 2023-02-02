@@ -1,6 +1,6 @@
-#nodejs
+# Nodejs
 
-Este projeto foi desenvolvido diante do curso ministrado por Felipe Rocha -
-Node.JS para iniciantes.
+Este projeto foi desenvolvido diante do curso ministrado por Felipe Rocha - Node.JS para iniciantes.
 
-Foi utilizado neste projeto: Node.JS, Express.JS, EJS, MongoDB, Dotenv e Insomnia para realizar requisições.
+## Neste projeto, foram utilizadas as seguintes ferramentas:
+Node.JS, Express, EJS, MongoDB, Dotenv e Insomnia para realizar requisições.
