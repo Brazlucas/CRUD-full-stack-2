@@ -1,4 +1,4 @@
-# Nodejs
+# Crud full-stack 2
 
 Este projeto foi desenvolvido diante do curso ministrado por Felipe Rocha - Node.JS para iniciantes.
 
